@@ -13,3 +13,6 @@ There is no generic template to add the badges in the LNCS format. The following
 \SetWatermarkAngle{0}
 ```
 This snippet is based on the code suggested by Claus Schatzle and Daniel Dietsch for the [VMCAI badges](https://github.com/schaetzc/vmcai-badges).
+
+## Badges
+The SAS Artifact Evaluation badges were designed by [Arpita Biswas](https://sites.google.com/view/arpitabiswas) and [Suvam Mukherjee](https://suvamm.github.io/).
